@@ -1,3 +1,1 @@
-# sciRender
-- A render and physical engine for scientific visualization
-- Currently in development. Feature requests are welcomed!(as issues)
+Currently in development. Feature requests are welcomed!(as issues)
